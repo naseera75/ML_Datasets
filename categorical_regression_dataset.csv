@@ -1,0 +1,51 @@
+Experience_Level,Education_Level,Department,Salary
+Beginner,High School,HR,22000
+Beginner,Diploma,Sales,24000
+Beginner,Bachelor,Finance,26000
+Beginner,Master,IT,28000
+Intermediate,High School,Marketing,30000
+Intermediate,Diploma,HR,32000
+Intermediate,Bachelor,Sales,34000
+Intermediate,Master,Finance,36000
+Advanced,High School,IT,38000
+Advanced,Diploma,Marketing,40000
+Advanced,Bachelor,HR,42000
+Advanced,Master,Sales,44000
+Beginner,High School,Finance,23000
+Beginner,Diploma,IT,25000
+Beginner,Bachelor,Marketing,27000
+Beginner,Master,HR,29000
+Intermediate,High School,Sales,31000
+Intermediate,Diploma,Finance,33000
+Intermediate,Bachelor,IT,35000
+Intermediate,Master,Marketing,37000
+Advanced,High School,HR,39000
+Advanced,Diploma,Sales,41000
+Advanced,Bachelor,Finance,43000
+Advanced,Master,IT,45000
+Beginner,High School,Marketing,22500
+Beginner,Diploma,HR,24500
+Beginner,Bachelor,Sales,26500
+Beginner,Master,Finance,28500
+Intermediate,High School,IT,30500
+Intermediate,Diploma,Marketing,32500
+Intermediate,Bachelor,HR,34500
+Intermediate,Master,Sales,36500
+Advanced,High School,Finance,38500
+Advanced,Diploma,IT,40500
+Advanced,Bachelor,Marketing,42500
+Advanced,Master,HR,44500
+Beginner,High School,Sales,23500
+Beginner,Diploma,Finance,25500
+Beginner,Bachelor,IT,27500
+Beginner,Master,Marketing,29500
+Intermediate,High School,HR,31500
+Intermediate,Diploma,Sales,33500
+Intermediate,Bachelor,Finance,35500
+Intermediate,Master,IT,37500
+Advanced,High School,Marketing,39500
+Advanced,Diploma,HR,41500
+Advanced,Bachelor,Sales,43500
+Advanced,Master,Finance,45500
+Intermediate,Bachelor,Marketing,36500
+Advanced,Master,IT,47000
